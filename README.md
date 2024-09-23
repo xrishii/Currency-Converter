@@ -118,7 +118,7 @@ const apiUrl = `http://data.fixer.io/api/latest?access_key=${apiKey}`;
 - **API Service**: The Fixer.io API is used to provide real-time currency exchange rates.
 
 ## Link 
-https://github.com/xrishii/Project-Currency-Converter
+https://xrishii.github.io/Project-Currency-Converter/
 
 ## License
 
