@@ -1,4 +1,4 @@
-# Currency-Converter
+## Currency-Converter
 
 ## Overview
 
@@ -116,6 +116,9 @@ const apiUrl = `http://data.fixer.io/api/latest?access_key=${apiKey}`;
 - **Design Inspiration**: The futuristic design elements were inspired by modern web design practices and specifically tailored for a sleek, immersive experience.
 - **Background Image**: The floating planet image was sourced from the NTP website example provided.
 - **API Service**: The Fixer.io API is used to provide real-time currency exchange rates.
+
+## Link 
+https://github.com/xrishii/Project-Currency-Converter
 
 ## License
 
